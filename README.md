@@ -1,4 +1,4 @@
 # CV
 
-[My CV](./CV.pdf)
+[CV pdf](./CV.pdf)
 
