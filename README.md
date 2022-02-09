@@ -1,4 +1,4 @@
 # CV
 
-[CV pdf](./CV.pdf)
+[pdf-version](./Taisia%20Penskaya.pdf)
 
